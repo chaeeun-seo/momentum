@@ -1,0 +1,13 @@
+// learn javascript data types
+
+// 1. number (integer, float)
+// 2              integer
+// 1.5            float
+// 75757 + 1.3    able to add integer with float
+
+// 2. text/string
+// "hello"
+// "hello " + "my name is something"
+
+// number and string is the most basic data types
+// number and string is in every programming languages
