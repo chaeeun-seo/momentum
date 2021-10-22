@@ -1,4 +1,4 @@
-// Recap 1
+// Recap
 
 // Data Types : string, number
 console.log("text");
